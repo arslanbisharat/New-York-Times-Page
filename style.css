@@ -20,7 +20,7 @@ nav li{
         right: 0;
         width: 100%;
         background-color: white;
-        z-index: 100;
+        z-index: 1;
 }
 nav ul {
     font-family: Arial, Helvetica, sans-serif;
@@ -33,6 +33,19 @@ nav ul {
     text-decoration: none;
     width: 100%;
 }
-    ul {
-        margin: 0;
-        padding: 0;
+header strong{
+    position: relative;
+    top: -05px;
+    padding: 10px;
+}
+header nav .material-icons{
+    padding: 10px;
+}
+
+header button{
+    background-color:rgb(8, 69, 139);
+    border-radius: 0.3em;
+    padding: 10px 20px;
+    color: white;
+    font-size: .7em;
+}
