@@ -33,10 +33,10 @@ nav ul {
     text-decoration: none;
     width: 100%;
 }
-header strong{
+header li strong{
     position: relative;
     top: -05px;
-    padding: 10px;
+    padding: -10px;
 }
 header nav .material-icons{
     padding: 10px;
@@ -50,18 +50,12 @@ header button{
     font-size: .7em;
 }
 
-main sub-text1{
-    font-size: 0.875rem
-    font-family: nyt-imperial,georgia,'times new roman',times,serif;
-}
-
 .footer-top{
     
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid lightgray;
-    padding-bottom:20px;
-    padding-left: 20px;
+    padding:20px;
 }
 .footer-items:last-child{
     padding-left:10px;
