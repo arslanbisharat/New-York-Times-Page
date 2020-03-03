@@ -49,3 +49,60 @@ header button{
     color: white;
     font-size: .7em;
 }
+
+main sub-text1{
+    font-size: 0.875rem
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+}
+
+.footer-top{
+    
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    padding-bottom:20px;
+    padding-left: 20px;
+}
+.footer-items:last-child{
+    padding-left:10px;
+    border-left: 1px solid lightgray;
+}
+.Nyt-logo{
+    border-top: 4px solid lightgray;
+    display:flex;
+    justify-content: space-between;
+    padding:10px 0;
+}
+
+.footer-bottom{
+    font-size:13px;
+    color:lightgray;
+    padding:10px 0 20px 0;
+    text-align:center;
+}
+.footer-items p, .footer-items h3{
+    line-height: 20px;
+    font-size:15px;
+    margin:5px;
+    
+}
+.footer-top a {
+    color:black;
+}
+.footer-bottom a{
+    color:rgb(155, 149, 149);
+}
+
+.footer-bottom ul li {
+    list-style-type:none;
+    margin-right:10px;
+}
+
+.footer-bottom ul {
+    display:flex;
+    justify-content: center;
+}
+footer a{
+    text-decoration: none;
+    
+}
