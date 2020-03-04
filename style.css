@@ -121,7 +121,7 @@ grid-column-gap: 0px;
 grid-row-gap: 0px;
 }
 #more-info img{
-    width: 40px;
+    width: 18em;
 }
 #main-part{
     margin: 0 33%;
@@ -255,4 +255,12 @@ aside {
     font-weight: bold;
     margin-right: 10px;
   }
-  
+  aside ul{
+    display: grid;
+    font-size: 10px;
+}
+div#space-astronomy ul, #recomendations ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+}
