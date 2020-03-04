@@ -2,7 +2,7 @@
 
 Clone of New York Times Page
 
-![screenshot](./image/Screenshot.png)
+![screenshot](./images/Screenshot.png)
 
 ## Built With
 
