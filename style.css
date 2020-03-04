@@ -175,3 +175,84 @@ aside ul{
     display: grid;
     font-size: 10px;
 }
+
+aside {
+    position: absolute;
+    top: 1800px;
+    left: calc(100% - 280px);
+  }
+  
+  .editors-pick-container {
+    width: 210px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .editors-pick-article {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .editors-pick-container h4 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .editors-pick-article a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  aside a:hover {
+    text-decoration: underline;
+  }
+  
+  .editors-pick-article img {
+    width: 75px;
+    height: 75px;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  .box-part {
+    margin: 0 auto;
+    width: 945px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .box-part h2 {
+    grid-column: 1/5;
+    color: black;
+    font-size: 20px;
+    font-family: "NYTImperial", sans-serif;
+    font-weight: 600;
+    padding: 8px 0;
+  }
+  
+  .box-part p {
+    grid-column: 1/5;
+  }
+  
+  .box-item img {
+    width: 100%;
+  }
+  
+  .box-item p {
+    line-height: 17px;
+    font-size: 13px;
+    color: black;
+    font-family: "NYTFranklin", sans-serif;
+    font-weight: 300;
+  }
+  
+  .box-item strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
