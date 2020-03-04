@@ -626,9 +626,9 @@ footer{
 .agreement {
   grid-column: 1 / 7;
   font-size: 10px;
-  padding-top: 10px;
   border-top: 1px solid #e2e2e2;
   transform: none;
+  height: 100px;
 }
 
 .agreement .nav-links {
@@ -636,4 +636,33 @@ footer{
   color: black;
   padding-top: 9px;
   font-weight: bold;
+}
+.note {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 55px;
+  border-top: 1px solid #666;
+  background-color: white;
+  z-index: 1;
+  font-family: "NYTFranklin", sans-serif;
+  text-align: center;
+  cursor: pointer;
+}
+
+.note p {
+  padding-top: 18px;
+}
+
+.option {
+  position: fixed;
+  bottom: 20px;
+  right: 70px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+.option i {
+  margin-left: 20px;
 }
