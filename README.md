@@ -1,15 +1,15 @@
 # New-York-Times-Page
-# Project-2: mint.com's signup page  - HTML forms
 
-> This project consists of building an HTML document that matches the appearance of mint.com's signup page.
+Clone of New York Times Page
 
 ![screenshot](./image/Screenshot.png)
 
-Use of vectors of the icon on signup with css and all of the page it's responsive.
-
 ## Built With
 
-- HTML, CSS.
+HTML5, CSS3
+Flexbox
+Grid
+Fontawesome
 ## Live Demo
 
 [Live Demo Link](https://raw.githack.com/arslanbisharat/New-York-Times-Page/feature-branch/index.html)
