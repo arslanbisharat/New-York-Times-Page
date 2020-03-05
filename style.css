@@ -569,7 +569,6 @@ footer .columns a {
 
 .main-footer img {
   width: 184px;
-  height: 44px;
   grid-column: 1 / 6;
   align-self: center;
   margin: 5px 0 10px -8px;
@@ -650,7 +649,7 @@ footer .columns a {
 }
 
 .note p {
-  padding-top: 18px;
+  padding-top: 0px;
 }
 
 .option {
