@@ -20,13 +20,13 @@ Fontawesome
 
 - Github: [@githubhandle](https://github.com/ricardo123321)
 - Twitter: [@twitterhandle](https://twitter.com/ricardo61592083)
-- Linkedin: [linkedin](https://www.linkedin.com/in/ricardo-vera-7381a81a2/)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ricardo-vera/)
 
 👤 **Muhammad Arslan**
 
 - Github: [@githubhandle](https://github.com/arslanbisharat)
 - Twitter: [@twitterhandle](https://twitter.com/arslan_bisharat-2020bb156)
-- Linkedin: [linkedin](https://www.linkedin.com/in/muhammad-arslan-2020bb156)
+- Linkedin: [linkedin](https://www.linkedin.com/in/muhammad-arslan)
 
 ## 🤝 Contributing
 
